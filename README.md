@@ -1,2 +1,2 @@
 # SeleniumPrj-FileUpload
-TThis repository consist of aselenium program for file upload
+This repository consist of aselenium program for file upload.
